@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b14f1899237114042bebda252e9fbe71
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 8d703057541b9a84c8f273d045fb9619
+  - enabled: 1
+    path: Assets/Scenes/EscrotoScene.unity
+    guid: 2a95c0b92fe950141934fcce0b087275
+  - enabled: 1
+    path: Assets/Scenes/UteroScene.unity
+    guid: 4e84d9b734ed21c4da26c8e49a9d3ae1
+  m_configObjects: {}
